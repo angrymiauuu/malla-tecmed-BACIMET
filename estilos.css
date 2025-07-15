@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff4e6;
+  color: #3c2f2f;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #4b3832;
+}
+
+.semestre {
+  margin: 20px 0;
+}
+
+.semestre h2 {
+  background-color: #854442;
+  color: #fff4e6;
+  padding: 10px;
+}
+
+.ramo {
+  display: inline-block;
+  margin: 5px;
+}
+
+.ramo button {
+  background-color: #be9b7b;
+  border: none;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #3c2f2f;
+}
+
+.ramo button.completed {
+  background-color: #4b3832;
+  color: #fff4e6;
+}
+
+.ramo button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
