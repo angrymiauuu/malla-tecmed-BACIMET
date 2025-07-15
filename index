@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Tecnología Médica - BACIMET</title>
+  <link rel="stylesheet" href="estilos.css" />
+</head>
+<body>
+  <h1>Tecnología Médica - Bioanálisis Clínico, Inmunohematología y Medicina Transfusional</h1>
+  
+  <div id="malla"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
